@@ -16,7 +16,7 @@ const Header = () => {
     </div>
 
     <nav>
-        <a href="#"><FontAwesomeIcon icon={faUser} /> Avtare</a>
+        <a href="#"><FontAwesomeIcon icon={faUser} /> Avtar</a>
     </nav>
   </div>;
 };
